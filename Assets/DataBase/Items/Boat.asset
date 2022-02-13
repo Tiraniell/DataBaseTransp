@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Boat
   m_EditorClassIdentifier: 
   Type: 2
-  Image: {fileID: -1352215241321262103, guid: 3531bd7e6d8f7cd48bdfe67161d4de1e, type: 3}
+  Image: {fileID: -6483018465991122256, guid: 3531bd7e6d8f7cd48bdfe67161d4de1e, type: 3}
   Name: Black Perl
   Weight: 10000
   Speed: 300
